@@ -1,5 +1,5 @@
-# Compiled
-*.elc
+*~
 
-# Packaging
+# Compiled Emacs Lisp
+*.elc
 .cask
