@@ -5,10 +5,10 @@
 ** Meatless
 - [[http://cookieandkate.com/2015/thai-pineapple-fried-rice-recipe/][Thai Pineapple Fried Rice]]
 ** Desserts
-*** Indian pudding
-- [[http://cooking.nytimes.com/recipes/1016896-indian-pudding][Indian Pudding from the NY Times]]
-- [[http://cooking.nytimes.com/recipes/1016896-indian-pudding][Also from the NY Times]]
-- [[http://www.simplyrecipes.com/recipes/indian_pudding/][Simply Recipes.com]]
 * Recipes that I've tried and enjoyed
 - [[http://damndelicious.net/2013/07/07/korean-beef-bowl/][Korean Beef Bowl]]
 - [[http://www.madeeveryday.com/2008/07/recipe-easy-lime-chicken-fajitas.html][Easy Lime Chicken Fajitas]]
+
+* My Recipes
+** Desserts
+- [[file:IndianPudding.org][Indian Pudding]]

@@ -1,0 +1,81 @@
+#+TITLE: Crispy Sesame Beef
+#+DATE: <2016-04-08 Fri>
+#+AUTHOR:
+#+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
+#+OPTIONS: author:t c:nil creator:comment d:(not "LOGBOOK") date:t
+#+OPTIONS: e:t email:nil f:t inline:t num:nil p:nil pri:nil stat:t
+#+OPTIONS: tags:t tasks:t tex:t timestamp:t toc:nil todo:t |:t
+#+CREATOR: Emacs 24.2.1 (Org mode 8.2.6)
+#+DESCRIPTION:
+#+EXCLUDE_TAGS: noexport
+#+KEYWORDS:
+#+LANGUAGE: en
+#+SELECT_TAGS: export
+#+OPTIONS: html-link-use-abs-url:nil html-postamble:nil
+#+OPTIONS: html-preamble:nil html-scripts:t html-style:t
+#+OPTIONS: html5-fancy:nil tex:t
+#+CREATOR: <a href="http://www.gnu.org/software/emacs/">Emacs</a> 24.2.1 (<a href="http://orgmode.org">Org</a> mode 8.2.6)
+#+HTML_CONTAINER: div
+#+HTML_DOCTYPE: xhtml-strict
+#+HTML_HEAD:
+#+HTML_HEAD_EXTRA:
+#+HTML_LINK_HOME:
+#+HTML_LINK_UP:
+#+HTML_MATHJAX:
+#+INFOJS_OPT:
+#+LATEX_HEADER:
+* Description
+
+From [[http://damndelicious.net/2016/03/06/crispy-sesame-beef/][Damn Delicious]]
+
+Restaurant-quality, amazingly crispy beef made in just 30 min with less oil -- you won't even be able to tell the difference! 
+
+I don't always eat beef but when I do, it definitely has to be crispy.
+
+Am I right or am I right?
+
+And you know what? You can skip the takeout and make this right at home.
+
+I promise. It's better than restaurant-quality by a mile, hands down.
+
+And you get to use less oil.
+
+Even with the less oil, that crispiness is out of this world! The secret ingredient is the cornstarch.
+
+# Crispy Sesame Beef
+* Cooking time
+| Yield      | 4 servings |
+| Prep Time  | 20 minutes |
+| Cook Time  | 10 minutes |
+| Total Time | 30 minutes |
+
+* Ingredients
+** For the meat
+- 1 cup peanut oil
+- 1 pound sirloin steak, sliced into thin strips
+- 4 tablespoons cornstarch, divided
+
+** For the sauce
+
+- 1/4 cup reduced sodium soy sauce
+- 1/4 cup brown sugar, packed
+- 2 tablespoons freshly squeezed orange juice
+- 2 tablespoons rice vinegar
+- 2 cloves garlic, minced
+- 1 tablespoon freshly grated ginger
+- 1 tablespoon Sriracha, optional
+- 1 teaspoon sesame oil
+- 1 teaspoon sesame seeds
+- 1 green onion, thinly sliced
+
+* Instructions
+
+    Heat peanut oil in a large stockpot or Dutch oven over medium heat.
+    In a large bowl, combine steak and 2 tablespoons cornstarch, tossing to coat and letting the steak absorb the cornstarch. Add remaining 2 tablespoons cornstarch before adding to the stockpot.
+
+    Working in batches, cook steak until golden and crisp, about 2-3 minutes. Transfer to a paper towel-lined plate.
+
+    In a medium saucepan over medium high heat, combine soy sauce, brown sugar, orange juice, vinegar, garlic, ginger, Sriracha and sesame oil until slightly thickened, about 1-2 minutes. Stir in steak and gently toss to combine.
+
+    Serve immediately, garnished with sesame seeds and green onion, if desired.
+
