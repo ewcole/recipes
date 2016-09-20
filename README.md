@@ -22,12 +22,15 @@
 
 -   [Fruity Chicken Salad Sandwiches](http://www.chef-in-training.com/2012/06/fruity-chicken-salad-sandwiches/) from [Chef in Training](http://www.chef-in-training.com/)
 -   [Chicken Cordon Bleu Sandwich](http://www.chef-in-training.com/2012/10/chicken-cordon-bleu-sandwich/)
+-   [Chicken Potpie Turnovers](http://www.countryliving.com/food-drinks/recipes/a4174/chicken-potpie-turnovers-recipe-clv0912/)
 
 ## Meatless<a id="orgheadline1"></a>
 
 -   [Thai Pineapple Fried Rice](http://cookieandkate.com/2015/thai-pineapple-fried-rice-recipe/)
 
 ## Desserts<a id="orgheadline2"></a>
+
+-   [Strawberry Hand Pies](http://www.countryliving.com/food-drinks/recipes/a3923/strawberry-hand-pies-recipe-clv0712/)
 
 # Recipes that I've tried and enjoyed<a id="orgheadline4"></a>
 

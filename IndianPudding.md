@@ -13,6 +13,8 @@ I tried to make an Indian Pudding with my slow cooker by combining two recipes t
 -   [Indian Pudding from the NY Times](http://cooking.nytimes.com/recipes/1016896-indian-pudding)
 -   [Simply Recipes.com](http://www.simplyrecipes.com/recipes/indian_pudding/)
 
+It worked out well.
+
 # Ingredients<a id="orgheadline1"></a>
 
 -   4 c. Milk
@@ -31,4 +33,6 @@ Heat milk so that it is hot, but not boiling.  Then whisk in the cornmeal and mo
 
 Beat the eggs and mix in 1/2 c. of the hot cornmeal mixture.  Pour the egg mixture into the pan and whisk it constantly.  Cook it for 3 minutes.
 
-Stir in the spices and pour into the slow cooker dish.  Pour in the water and mix it thoroughly.  Then set the slow cooker on low and let it simmer.
+Stir in the spices and pour into the slow cooker dish.  Pour in the water and mix it thoroughly.  Then set the slow cooker on low and let it simmer.  Stir it occasionally to keep the bottom from burning, then turn it to warm after about two hours.
+
+Serve with vanilla ice cream.
