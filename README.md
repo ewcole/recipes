@@ -31,6 +31,8 @@
 ## Desserts<a id="orgheadline2"></a>
 
 -   [Strawberry Hand Pies](http://www.countryliving.com/food-drinks/recipes/a3923/strawberry-hand-pies-recipe-clv0712/)
+-   [Polenta Pudding with Blueberry Topping: Easy, Delicious, Freaking Hot](http://cheaphealthygood.blogspot.com/2008/07/easy-delicious-freaking-hot-cooking.html)
+-   [No-bake desserts from buzzfeed](https://www.buzzfeed.com/rachelc19/19-deserts-recipes-that-dont-require-an-oven-4emp?utm_term=.qqxxlw9Md#.bhPGZeD03)
 
 # Recipes that I've tried and enjoyed<a id="orgheadline4"></a>
 
