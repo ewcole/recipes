@@ -1,20 +1,21 @@
-
+This is my personal recipe book; feel free to try 
+* My Recipes
+** Desserts
+- [[file:IndianPudding.org][Indian Pudding]]
+* Recipes that I've tried and enjoyed
+- [[http://damndelicious.net/2013/07/07/korean-beef-bowl/][Korean Beef Bowl]]
+- [[http://www.madeeveryday.com/2008/07/recipe-easy-lime-chicken-fajitas.html][Easy Lime Chicken Fajitas]]
 * Recipes I Haven't Checked Out Yet
 - [[http://www.chef-in-training.com/2012/06/fruity-chicken-salad-sandwiches/][Fruity Chicken Salad Sandwiches]] from [[http://www.chef-in-training.com/][Chef in Training]]
 - [[http://www.chef-in-training.com/2012/10/chicken-cordon-bleu-sandwich/][Chicken Cordon Bleu Sandwich]]
 - [[http://www.countryliving.com/food-drinks/recipes/a4174/chicken-potpie-turnovers-recipe-clv0912/][Chicken Potpie Turnovers]]
+** Asian
+- [[http://therecipecritic.com/2015/08/slow-cooker-mongolian-beef/][Slow Cooker Mongolian Beef]]
 ** Mexican
-[[http://www.foodrenegade.com/homemade-taco-seasoning/][Homemade Taco Seasoning]]
+- [[http://www.foodrenegade.com/homemade-taco-seasoning/][Homemade Taco Seasoning]]
 ** Meatless
 - [[http://cookieandkate.com/2015/thai-pineapple-fried-rice-recipe/][Thai Pineapple Fried Rice]]
 ** Desserts
 - [[http://www.countryliving.com/food-drinks/recipes/a3923/strawberry-hand-pies-recipe-clv0712/][Strawberry Hand Pies]]
 - [[http://cheaphealthygood.blogspot.com/2008/07/easy-delicious-freaking-hot-cooking.html][Polenta Pudding with Blueberry Topping: Easy, Delicious, Freaking Hot]]
 - [[https://www.buzzfeed.com/rachelc19/19-deserts-recipes-that-dont-require-an-oven-4emp?utm_term=.qqxxlw9Md#.bhPGZeD03][No-bake desserts from buzzfeed]]
-* Recipes that I've tried and enjoyed
-- [[http://damndelicious.net/2013/07/07/korean-beef-bowl/][Korean Beef Bowl]]
-- [[http://www.madeeveryday.com/2008/07/recipe-easy-lime-chicken-fajitas.html][Easy Lime Chicken Fajitas]]
-
-* My Recipes
-** Desserts
-- [[file:IndianPudding.org][Indian Pudding]]
