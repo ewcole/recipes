@@ -1,0 +1,15 @@
+Byzantine bread for the Holy Eucharist
+
+
+# Ingredients
+
+-   6 c. flour
+-   2 c. warm water
+-   1/2 tsp. yeast
+
+
+# Instructions
+
+Mix yeast and water, then add flour 2 cups at a time.  
+Bake at 300°F for 1 hour and 10 minutes. 
+

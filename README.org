@@ -19,3 +19,5 @@ This is my personal recipe book; feel free to try
 - [[http://www.countryliving.com/food-drinks/recipes/a3923/strawberry-hand-pies-recipe-clv0712/][Strawberry Hand Pies]]
 - [[http://cheaphealthygood.blogspot.com/2008/07/easy-delicious-freaking-hot-cooking.html][Polenta Pudding with Blueberry Topping: Easy, Delicious, Freaking Hot]]
 - [[https://www.buzzfeed.com/rachelc19/19-deserts-recipes-that-dont-require-an-oven-4emp?utm_term=.qqxxlw9Md#.bhPGZeD03][No-bake desserts from buzzfeed]]
+* Other recipes
+- [[file:prosphora.org][Prosphora]]
