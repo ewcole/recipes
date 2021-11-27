@@ -1,0 +1,17 @@
+#+title: No-Knead Bread
+#+options: toc:nil num:nil html-preamble:nil html-postamble:nil ^:{}
+#+startup: showeverything
+
+This is an adaptation of a recipe from [[https://www.thekitchn.com/how-to-make-noknead-bread-home-109343][www.thekitchen.com]]
+* Ingredients
+- 3 cups flour
+- 1 tsp salt
+- 3/4 tsp. active dry yeast
+- 1 1/2 c. lukewarm water
+* Instructions
+Whisk together dry ingredients.  Add water and stir
+Cover the dough and let it rise for 6 to 8 hours. Shape into a ball
+and let it rise another hour.
+
+Preheat oven to 450 F.  Cover and bake for 30 minutes, uncoverand bake
+for another 15 minutes.
